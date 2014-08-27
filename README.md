@@ -2,7 +2,7 @@
 
 # Intro 
 
-Monitor a load balance Nginx Web Farm. This app will give overral performance metrics of HAProxy running with an Nginx backend. 
+Monitor a load balanced Nginx Web Farm. This app will give performance and health metrics of HAProxy running with an Nginx backend. 
 
 ## Downloads 
 
